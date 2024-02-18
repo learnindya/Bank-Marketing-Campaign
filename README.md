@@ -20,7 +20,7 @@ Correlation:
 There is a slight positive correlation between target and balance, the number of days since last contact, and the number of contacts performed before.
 There is a slight negative correlation between target and personal loan, housing loan, and number of campaign.
 
-## Data Preparation
+## Data Preprocessing
 - Remove outliers with z-score > 3
 - Label encoding for education and month
 - One-hot encoding for marital, job, contact, poutcome
